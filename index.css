@@ -1,0 +1,25 @@
+body{
+
+
+    background-color: cadetblue;
+    text-align: center;
+}
+.box-part{
+    background-color: green;
+    padding: 100px 50px;
+    margin: 100px 30px;
+
+    
+  }
+  .fa{
+  color: blue;
+  }
+  a{
+    border-bottom: 1px solid blue;
+  }
+  p{
+    font-size: 15px;
+  }
+  .box{
+    padding: 60px 80px;
+  }
